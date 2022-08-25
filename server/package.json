@@ -1,0 +1,10 @@
+{
+  "name": "holahelloBackEnd",
+  "version": "0.0.1",
+  "description": "Backend HolaHello.com",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-node": "^0.1.0"
+  }
+}
